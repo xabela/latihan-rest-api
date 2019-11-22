@@ -1,0 +1,24 @@
+[
+    {
+        "nama" : "bela",
+        "umur" : 20,
+        "hobi" : ["tidur", "makan"],
+        "lulus" : true,
+        "pembimbing" : {
+            "pembimbing1" : "agus",
+            "pembimbing2" : "budi"
+        }
+    
+    },
+    {
+        "nama" : "nat",
+        "umur" : 20,
+        "hobi" : ["tidur", "makan"],
+        "lulus" : true,
+        "pembimbing" : {
+            "pembimbing1" : "agus",
+            "pembimbing2" : "budi"
+        }
+    
+    }
+]
